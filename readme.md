@@ -5,8 +5,10 @@ Simple Discord bot to allow queuing in text channels
 `git clone https://github.com/jaymanforty/simple_queue.git`
 
 # Create and activate a virtual environment in the project directory
-`python -m venv venv`
-`venv\Scripts\activate`
+```
+python -m venv venv
+venv\Scripts\activate
+```
 
 # Install project dependencies
 ```
